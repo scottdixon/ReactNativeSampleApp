@@ -1,4 +1,4 @@
-# React Native Sample App
+# React Native Sample App!
 
 At [TaskRabbit](https://www.taskrabbit.com), we are trying to understand the best way to build React Native apps. This app is a working app in which we implement new ideas or those that have worked for us so far. We'll write about it on our [tech blog](http://tech.taskrabbit.com/).
 
